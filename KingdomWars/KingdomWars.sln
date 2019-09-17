@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KingdomWars", "Assembly-CSharp-firstpass.csproj", "{6126B937-9111-E256-C6A4-219FECFFA86C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KingdomWars", "Assembly-CSharp.csproj", "{C3B1E3E8-7022-36FC-E684-C884ADC7C7D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KingdomWars", "Assembly-CSharp-Editor-firstpass.csproj", "{8A3A3E38-93DB-472D-2599-66174E3E2154}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6126B937-9111-E256-C6A4-219FECFFA86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6126B937-9111-E256-C6A4-219FECFFA86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6126B937-9111-E256-C6A4-219FECFFA86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6126B937-9111-E256-C6A4-219FECFFA86C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3B1E3E8-7022-36FC-E684-C884ADC7C7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B1E3E8-7022-36FC-E684-C884ADC7C7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B1E3E8-7022-36FC-E684-C884ADC7C7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B1E3E8-7022-36FC-E684-C884ADC7C7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A3A3E38-93DB-472D-2599-66174E3E2154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3A3E38-93DB-472D-2599-66174E3E2154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3A3E38-93DB-472D-2599-66174E3E2154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3A3E38-93DB-472D-2599-66174E3E2154}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
